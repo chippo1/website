@@ -15,7 +15,7 @@ Make sure to not only clone from here or your fork,
 but also to initialize all
 [submodules](http://git-scm.com/book/en/Git-Tools-Submodules).
 
-    git clone --recursive git@github.com:sagemath/website.git
+    git clone --recursive https://github.com/sagemath/website.git
 
 or if you forgot the `--recursive` switch, do this:
 
